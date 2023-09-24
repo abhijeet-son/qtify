@@ -1,0 +1,19 @@
+.imageSection{
+    display: flex;
+    width: 799px;
+    justify-content: center;
+    align-items: center;
+}
+
+.heroSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 270px;
+}
+
+.bannerText{
+    text-wrap: balance;
+    width: 556px;
+    height: 100px;
+}

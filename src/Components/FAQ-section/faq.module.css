@@ -1,0 +1,27 @@
+.faqSection{
+    margin-inline: 100px;
+    /* margin-block: 200px; */
+    min-width: 60%;
+
+    .questionHead{
+        border: 1px solid var(--color-white);
+        border-radius: 10px;
+        background-color: var(--color-black);
+        color: var(--color-white);
+    }
+
+    .answerBody{
+        background-color: var(--color-white);
+        color: var(--color-black);
+        border-radius: 0 0 10px 10px;
+    }
+}
+
+.heading{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.accordionContainer{
+    margin-block: 20px;
+}
